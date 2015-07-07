@@ -7,6 +7,7 @@ gem 'rails', '4.2.3'
 gem 'pg'
 # Use CarrierWave to Upload picture
 gem 'carrierwave'
+gem 'cloudinary'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
